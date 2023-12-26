@@ -1,14 +1,11 @@
 # 🏠 HomePod Mini Homepage Recreation 🎵📱
 
-This project was created as a personal endeavor to recreate the HomePod mini's homepage using HTML and CSS.
+This [project](https://maissack.github.io/homepod_mini/) was created as a personal endeavor to recreate the HomePod mini's homepage using HTML and CSS.
 
 ## Description 🌟
 
 The main goal of this project was to gain familiarity with web development by visually recreating the HomePod mini's homepage. It was undertaken as a learning exercise to practice HTML and CSS skills.
 
-## Preview
-
-![Project Preview](https://maissack.github.io/homepod_mini/)
 
 ## Features & Highlights
 
